@@ -2,6 +2,7 @@ body {
     background-color: rgb(240, 240, 240);
     background-image:url(31192.jpg) ;
    background-size:cover;
+    background-repeat:no-repeat;
 }
 
 #titlebar {
